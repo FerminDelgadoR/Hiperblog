@@ -1,4 +1,4 @@
-VERSION1
+VERSION2
 
 esta es la historia de Fermin Delgado
 
